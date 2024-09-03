@@ -1,0 +1,30 @@
+.listValue{
+    display: flex;
+    justify-content: space-between;
+    background-color: #004170;
+    margin-top: 10px;
+    align-items: center;
+    width: 64%;
+    padding: 10px 10px;
+}
+
+.listBtn{
+    display: flex;
+    gap: 5px;
+}
+
+.listInput h5{
+    color: #ffffff;
+}
+
+.editBtn{
+    border: none;
+    background: transparent;
+    color: #ffffff;
+}
+
+.deleteBtn{
+    border: none;
+    background: transparent;
+    color: #ffffff;
+}
